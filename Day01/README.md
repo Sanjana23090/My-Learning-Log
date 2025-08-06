@@ -1,7 +1,13 @@
 ## Day 01 - Python Basics
 
 ✅ Topics Covered:
-- Python intro, syntax, variables, data types, etc.
+- Python Introduction
+- Syntax, Comments, Variables, Data Types
+- Numbers, Booleans, Operators
+- If-Else Statements
 
-📁 Files:
-- [Uploaded below in this folder]
+🧪 Practice Tasks:
+- Greet the user by name
+- Area of rectangle
+- Odd/Even checker
+- Marks to grade converter
