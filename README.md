@@ -1,2 +1,2 @@
 # My-Learning-Log
-Day 1 learning of Python basics and practice tasks
+My 90-day self-learning journey
